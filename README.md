@@ -1,6 +1,6 @@
-# temporal-docker-dev-starter
+# Temporal Docker Dev Starter
 
-A lightweight Docker image that runs the [Temporal](https://temporal.io) server and web UI via the cli rather than a full temporal.io deployment.
+A lightweight Docker image and Docker compose file that runs the [Temporal](https://temporal.io) server and web UI via the cli rather than a full deployment.
 
 This is suitable for development and testing purposes.
 
